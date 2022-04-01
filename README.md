@@ -51,6 +51,9 @@ Email: mjossany@gmail.com <br>
   <a href="https://www.mongodb.com/" target="_blank">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
   </a>
+  <a href="https://styled-components.com/" target="_blank">
+   <img src="./badges/styledcomponents.svg" alt="styled-components" width="40" height="40"/>
+  </a>
 </div>
 
 <h4 align="center">Thanks for the visit! 👋</h4>
