@@ -43,7 +43,7 @@ Email: mjossany@gmail.com <br>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
   <a href="https://socket.io/" target="_blank">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" alt="socketio" width="40" height="40" />
+   <img src="./badges/socketdotio.svg" alt="socketio" width="40" height="40" />
   </a>
   <a href="https://sequelize.org/" target="_blank">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg" alt="sequelize" width="40" height="40"/>
