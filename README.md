@@ -1,7 +1,7 @@
 <div align="center"> <img src="https://media2.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif?cid=ecf05e47rze7ut6g05lxumeo3wqgjpxbsc7cljktke2wp0z2&rid=giphy.gif&ct=g" width="150px"></img></div>
 <div align="center"><h2>Hi there! My name is Jossany, I am a Full Stack Web Development Student! 👋🏻 </h2>
 
-🔭 I’m currently studing Web Development at [Trybe](https://www.betrybe.com/)! <br>
+🔭 I’m currently studying Web Development at [Trybe](https://www.betrybe.com/)! <br>
 🌱 I’m currently learning back end testing with mocha! <br>
 📫 How to reach me:<br>
 [LinkedIn](https://www.linkedin.com/in/jossanymoura/) <br>
