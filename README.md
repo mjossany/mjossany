@@ -57,6 +57,9 @@ Email: mjossany@gmail.com <br>
   <a href="https://styled-components.com/" target="_blank">
    <img src="https://styled-components.com/icon.png" alt="styled-components" width="65" height="30"/>
   </a>
+  <a href="https://www.java.com/pt-BR/" target="_blank">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="65" height="30"/>
+  </a>
 </div>
 
 <h4 align="center">Thanks for the visit! 👋</h4>
