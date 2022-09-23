@@ -2,7 +2,7 @@
 <div align="center"><h2>Hi there! My name is Jossany, I am a Full Stack Web Development Student! 👋🏻 </h2>
 
 🔭 I’m currently studying Web Development at [Trybe](https://www.betrybe.com/)! <br>
-🌱 I’m currently learning back end testing with mocha! <br>
+🌱 I’m currently learning Java! <br>
 📫 How to reach me:<br>
 [LinkedIn](https://www.linkedin.com/in/jossanymoura/) <br>
 Email: mjossany@gmail.com <br>
