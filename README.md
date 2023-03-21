@@ -1,8 +1,8 @@
 <div align="center"> <img src="https://media2.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif?cid=ecf05e47rze7ut6g05lxumeo3wqgjpxbsc7cljktke2wp0z2&rid=giphy.gif&ct=g" width="150px"></img></div>
-<div align="center"><h2>Hi there! My name is Jossany, I am a Full Stack Web Development Student! 👋🏻 </h2>
+<div align="center"><h2>Hi there! My name is Jossany, I am a Java Backend Developer! 👋🏻 </h2>
 
-🔭 I’m currently studying Web Development at [Trybe](https://www.betrybe.com/)! <br>
-🌱 I’m currently learning Java! <br>
+🔭 I’m currently a Java Backend Developer at [Zallpy](https://zallpy.com/en)! <br>
+🌱 I’m currently learning Spring Security and Hibernate! <br>
 📫 How to reach me:<br>
 [LinkedIn](https://www.linkedin.com/in/jossanymoura/) <br>
 Email: mjossany@gmail.com <br>
